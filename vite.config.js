@@ -1,5 +1,5 @@
 export default {
-    base: '/vite-planet/',
+    base: './',
     build: {
         outDir: 'docs',
     },
